@@ -1,0 +1,12 @@
+ESTADO DE CUENTA
+----------------------------------
+ID: 1 | Supermercado | 100.000,00
+ID: 2 | Gasolina | 20.000,00
+ID: 3 | Restaurante | 45.550,00
+ID: 4 | Farmacia | 9.200,00
+ID: 5 | Ropa | 215.350,00
+----------------------------------
+Monto total de contado: 390.100,00
+Monto total con interes (2.6%): 400.242,60
+Cash back (0.1%): 390,10
+Monto final a pagar: 399.852,50
